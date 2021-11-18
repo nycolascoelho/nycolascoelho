@@ -1,7 +1,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Engenharia Eletrônica no <a href="https://www.ifsc.edu.br/web/campus-florianopolis">IFSC</a>.
-- 💼 &nbsp; Trabalhando como Estagiário em Desenvolvimento de Software na <a href="https://altoqi.com.br/">AltoQi</a>
+- 💼 &nbsp; Trabalhando como Estagiário em Desenvolvimento de Software na <a href="https://altoqi.com.br/">AltoQi</a>.
 - 🌱 &nbsp; Aprendendo mais sobre C++, Qt, Sql e Python.
 - 💻 &nbsp; Experiência em: Arduino, MSP430 e STM32.
 
