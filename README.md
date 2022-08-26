@@ -24,5 +24,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Nycolas Coelho de Abreu](https://img.shields.io/badge/-Nycolas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nycolas-coelho-de-abreu/)](https://www.linkedin.com/in/nycolas-coelho-de-abreu/)
-[![Gmail Badge](https://img.shields.io/badge/-nyco_abreu@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:nyco_abreu@hotmail.com)
-[![GitHub Nycolas Coelho de Abreu]( https://img.shields.io/github/followers/nycolascoelho?label=follow&style=social)](https://github.com/nycolascoelho)
+[![Gmail Badge](https://img.shields.io/badge/Email-nyco__abreu%40hotmail.com-blue)](mailto:nyco_abreu@hotmail.com)
+[![GitHub Nycolas Coelho de Abreu]( https://img.shields.io/github/followers/nycolasabreu?label=follow&style=social)](https://github.com/nycolasabreu)
