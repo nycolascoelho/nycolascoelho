@@ -2,7 +2,7 @@
 
 - 🎓 &nbsp; Estudando Engenharia Eletrônica no <a href="https://www.ifsc.edu.br/web/campus-florianopolis">IFSC</a>.
 - 💼 &nbsp; Trabalhando como Desenvolvedor de Software júnior na <a href="https://altoqi.com.br/">AltoQi</a>.
-- 🌱 &nbsp; Aprendendo mais sobre C++, Qt, Sql e Python.
+- 🌱 &nbsp; Aprendendo mais sobre C++, Qt, OpenGL, Sql e Python.
 - 💻 &nbsp; Experiência em: Arduino, MSP430 e STM32.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
