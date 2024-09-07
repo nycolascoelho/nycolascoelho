@@ -1,29 +1,25 @@
-<h3> :man: &nbsp;Sobre mim </h3>
+# Hi there, I'm Nycolas Abreu! 👋
 
-- 🎓 &nbsp; Engenharia Eletrônica no <a href="https://www.ifsc.edu.br/web/campus-florianopolis">IFSC</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedor de Software júnior na <a href="https://altoqi.com.br/">AltoQi</a>.
-- 🌱 &nbsp; Aprendendo mais sobre C++, Qt, OpenGL, Sql e Python.
-- 💻 &nbsp; Experiência em: Arduino, MSP430 e STM32.
+## About Me
+I'm a curious and pragmatic C++ Software Developer with over 3 years of experience in software engineering for Windows, Linux, and embedded systems. I thrive in agile teams, always seeking new challenges and opportunities to grow in the field of software development.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+🎓 Electronic Engineering graduate from IFSC
 
-**Aplicações e Dados**
+🏡 Based in Florianópolis, Santa Catarina, Brazil
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+💼 Currently working as an Embedded C++ Software Developer at CERTI Foundation
 
-**Ferramentas de Desenvolvimento**
+## Technical Skills
+- Languages: C++ 17, Python, C
+- Frameworks & Libraries: Qt, Boost, OpenGL
+- Testing Tools: Gtest, Robot
+- Protocols: CAN, Sockets, TCP/IP
+- Version Control: Git, SVN
+- Others: CMake, OOP
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+## Education
+- Electronic Engineering | IFSC - Federal Institute of Santa Catarina (2016 - 2022)
+- Electronics Technician | SENAI - Santa Catarina (2014 - 2015)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Nycolas Coelho de Abreu](https://img.shields.io/badge/-Nycolas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nycolas-coelho-de-abreu/)](https://www.linkedin.com/in/nycolas-coelho-de-abreu/)
-[![Gmail Badge](https://img.shields.io/badge/Email-nyco__abreu%40hotmail.com-blue)](mailto:nyco_abreu@hotmail.com)
-[![GitHub Nycolas Coelho de Abreu]( https://img.shields.io/github/followers/nycolasabreu?label=follow&style=social)](https://github.com/nycolasabreu)
+## Get in Touch
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nycolas-abreu)
