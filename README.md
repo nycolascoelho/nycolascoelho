@@ -7,7 +7,7 @@ I'm a curious and pragmatic C++ Software Developer with over 3 years of experien
 
 🏡 Based in Florianópolis, Santa Catarina, Brazil
 
-💼 Currently working as an Embedded C++ Software Developer at CERTI Foundation
+💼 Currently working as an Software Engineer at Stone
 
 ## Technical Skills
 - Languages: C++ 17, Python, C
